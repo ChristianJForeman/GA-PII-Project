@@ -1,0 +1,5 @@
+pandas==1.3.1
+googleanalytics==0.26.0
+apiclient
+httplib2
+oauth2client
